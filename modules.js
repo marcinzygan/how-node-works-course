@@ -11,3 +11,9 @@ console.log(calc1.add(2, 5));
 const { add, multiply } = require("./test-module-2");
 // console.log(calc2);
 console.log(multiply(5, 8));
+
+//cashing
+
+require("./tes-module-3")();
+require("./tes-module-3")();
+require("./tes-module-3")();
